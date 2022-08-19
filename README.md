@@ -85,7 +85,7 @@ libsdl2-dev
 
 ## Build
 
-Start by cloning the OpenRiichi repository with: ```git clone --recurse-submodules https://github.com/FluffyStuff/OpenRiichi.git```
+Start by cloning the OpenRiichi repository with: ```git clone --recurse-submodules https://github.com/ChaunceyWang2021/OpenRiichi.git```
 
 Next, generate a build target with meson using `meson build -Dbuildtype=release` or `meson build -Dbuildtype=debug` depending on whether you want a release or debug build.
 
